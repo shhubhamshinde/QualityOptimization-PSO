@@ -21,3 +21,5 @@ PSO is a powerful tool for improving cost efficiency and product quality in manu
 This project strengthened my expertise in engineering optimization, computational analysis, and quality management, key skills for roles in manufacturing, operations, and R&D.
 
 #Optimization #PSO #Manufacturing #QualityManagement #MATLAB #Engineering
+
+Pfa research paper used for reference
